@@ -48,3 +48,14 @@ body {
     border-top: 1px solid #f7f7f7;
     color: #FFF;
 }
+
+.delete{
+    background: #ea291a;
+    border: 0;
+    padding: 5px;
+    color: #FFF;
+    border-radius: 2px;
+    width: 50px;
+    cursor: pointer;
+    margin-left: 15px;
+}
